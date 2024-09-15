@@ -12,7 +12,7 @@ $ bash chromium_flags--no-sandbox.bash
 
 # แก้ไขชื่อผู้ใช้ ใน terminal โดยการแสดงสี ใหกับชื่อผู้ใช้
 $ cat ~/.bashrc > ~/.bashrc.save
-$ cat Linux-Project/*/root/.bashrc > ~/.bashrc
+$ cat Linux-Project/*/root/bashrc > ~/.bashrc
 
 และ ....
 ฉันยังทำไม่เสร็จ
