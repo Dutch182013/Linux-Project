@@ -10,7 +10,7 @@ Linux-Project/*
 $ cd Linux-Project/*/script
 $ bash chromium_flags--no-sandbox.bash
 
-# แก้ไขชื่อผู้ใช้ ใน terminal โดยการแสดงสี ใหกับชื่อผู้ใชี
+# แก้ไขชื่อผู้ใช้ ใน terminal โดยการแสดงสี ใหกับชื่อผู้ใช้
 $ cat ~/.bashrc > ~/.bashrc.save
 $ cat Linux-Project/*/root/.bashrc > ~/.bashrc
 
